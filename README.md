@@ -1,1 +1,1 @@
-Se crea Readme para comentarios
+Se crea Readme para comentarios y referencias de lo entendido ahora.
